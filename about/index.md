@@ -11,4 +11,6 @@ eleventyNavigation:
 
 So, bx39 is an idea to have a hosting framework for cyber and infosec people to build out their own tech stack. I'm hoping to get enough people involved, that we can build our own AD and pay for the cloud hosting as a group of volunteers kind of like [dn42](https://dn42.us/). for now, it's just a framework for me to host my profile page and maybe a few others that are inteterested! 
 
+This site was built on the [11ty/eleventy](https://www.11ty.dev/) framework, using the google provided [template](https://github.com/google/eleventy-high-performance-blog).
+
 Thanks for checking it out! 

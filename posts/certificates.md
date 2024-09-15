@@ -10,6 +10,10 @@ layout: layouts/post.njk
 image: https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0
 ---
 
+Here is a collection of resources that I've gathered through this past year of studying for certs. hope some of these help! 
+
+I'll add more text on here describing each of them, right now I'm still fiddling with the website and making sure everythings good on the backend. 
+
 ![banner](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/e01265d8-6a52-4262-68f5-988674e43900/public)
 
 
@@ -19,13 +23,9 @@ https://pauljerimy.com/security-certification-roadmap/
 
 ![Paul Jerimy's Chart](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/9489d05a-3d3a-43f3-939f-1afa0e98d100/public)
 
-![[20-29 Education/23 Certificates/Pasted image 20240804002139.png]]
-
-![[Pasted image 20240530214248.png]]
 
 ### list of post-nominals: (us)
 https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_States
-
 
 https://www.decisionprofessionals.com/
 
@@ -33,8 +33,7 @@ https://www.decisionprofessionals.com/
 https://public.cyber.mil/wid/dod8140/dod-approved-8570-baseline-certifications/
 ![[20-29 Education/23 Certificates/Pasted image 20240804001011.png]]
 
-
-Mad HAT: 
+### Mad HAT: 
 https://www.youtube.com/watch?v=o3cTnJXjVlk
 
 ### urls for days:
