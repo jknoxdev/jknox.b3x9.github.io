@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
-title: About
+title: about
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: about
   order: 3
 ---
 
