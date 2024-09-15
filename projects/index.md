@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: projects
 templateClass: tmpl-post
 eleventyNavigation:
-  key: about
+  key: projects
   order: 3
 ---
 
