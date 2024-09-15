@@ -6,7 +6,6 @@ scheduled: 2024-09-14
 tags:
   - another-tag
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
 
 # local notes
@@ -32,10 +31,8 @@ npm install @11ty/eleventy-plugin-rss
 redirected.registeredomain.github.io
 
 where redirected will be the project's new subdomain with the squarespace cname redirector: 
-![squarespace settings](../img/domain_settings_squarespace.png)
 
 - next in the 'Custom domain' section, we will enter the subdir.tld.com and also switch 'build and deployment' over to deploy from branch. in this case the main branch will work!
-![github settings](../img/domain_settings-github.png)
 
 clone the repo on your workstation
 
