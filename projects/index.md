@@ -7,7 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-## projects
-
 projects generator go brr
 
