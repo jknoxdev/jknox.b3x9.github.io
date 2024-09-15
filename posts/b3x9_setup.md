@@ -61,3 +61,5 @@ npm run watch
 
 [`http://localhost:8080`](http://localhost:8080)
 
+- now, lets migrate to vercel for the hosting portion because the google template app won't work github pages
+

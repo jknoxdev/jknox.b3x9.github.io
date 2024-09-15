@@ -9,3 +9,5 @@ eleventyNavigation:
 
 projects generator go brr
 
+### homelab / n3s
+
