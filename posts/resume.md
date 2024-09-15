@@ -19,7 +19,7 @@ image: https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0
 - BSc Computer Engineering Technology, DeVry University (2008)
 
 ##### Certifications
-CISSP | CISA | CC | Sec+
+[CISSP](https://www.credly.com/badges/1f2336ed-62ce-4611-b546-70f72e36e783/public_url) | [Sec+](https://www.credly.com/badges/03147a1f-38c0-491d-87f5-b988f5021c13/public_url)
 
 ##### Organizations
 - ISACA Member from August 2024
