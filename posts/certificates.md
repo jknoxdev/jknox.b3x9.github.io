@@ -16,9 +16,7 @@ I'll add more text on here describing each of them, right now I'm still fiddling
 
 ![banner](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/e01265d8-6a52-4262-68f5-988674e43900/public)
 
-
 ### the giant chart of certs:
-
 https://pauljerimy.com/security-certification-roadmap/
 
 ![Paul Jerimy's Chart](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/9489d05a-3d3a-43f3-939f-1afa0e98d100/public)
