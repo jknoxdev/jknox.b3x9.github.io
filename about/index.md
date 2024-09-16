@@ -22,10 +22,11 @@ In the spirit of the day, I saw this over on [shellshark](https://shellsharks.co
 |![made with ai sticker](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/5334d2f4-6ab9-44b3-580f-0647c0725a00/public) | url = ```<img src="https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/5334d2f4-6ab9-44b3-580f-0647c0725a00/public" alt="">``` | items with this mean that I provided the project inception and deployment, all development steps were generated |
 
 
-also kind of neat: 
+### also kind of neat: 
 [notbyai.fyi](https://notbyai.fyi/#who-can-use-not-by-ai-badge)
 [ai-label.org](https://ai-label.org/)
 
+### site info
 This site was built on the [11ty/eleventy](https://www.11ty.dev/) framework, using the google provided [template](https://github.com/google/eleventy-high-performance-blog).
 
 Thanks for checking it out! 
