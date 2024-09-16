@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-# local notes
+### local notes
 
 - tech used: 
 
@@ -24,7 +24,7 @@ firefox localhost:8080
 npm install @11ty/eleventy-plugin-rss
 ```
 
-# web hosting setup 
+### web hosting setup 
 
 - clone the template from the google page, and name the new repo: 
 
@@ -54,7 +54,6 @@ npm run watch
 ```
 
 - point the browser to: 
-
 
 [`http://localhost:8080`](http://localhost:8080)
 
