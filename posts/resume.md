@@ -32,8 +32,17 @@ image: https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0
 - Associated Student Body President, Spring 2005 – Fall 2005, Spring 2006-Fall 2007
 
 ##### Contact Info
-| contact me | qr code |
+| device | qr code |
 | -------- | ------- |
 | iOS | ![i o s q r code](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/263019a1-2f83-43f0-6aff-1f4a372ad200/public) |
 | android | ![android q r code](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/ed89ccb2-7be6-4c9c-fe38-d2bbb04e2f00/public) |
 
+
+##### File Versions
+| filetype | link |
+|----------|------|
+| ![word](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/f3c55183-6678-446e-5f27-f945431c0e00/public) | [Word](https://jknoxdev.github.io/docs/resumes/word/justin_knox_resume_replete_points.docx) | 
+| ![pdf](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/47b48ef5-9fa1-4605-da21-c84ce26e5b00/public)  |  [PDF](https://jknoxdev.github.io/docs/resumes/pdf/justin_knox_resume_replete_points.pdf)   |
+
+
+![assisted by ai sticker](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/41937417-5eef-4194-0d9e-d8fedc615100/public)
