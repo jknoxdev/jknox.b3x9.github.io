@@ -31,7 +31,6 @@ https://www.decisionprofessionals.com/
 
 ### DoD 8570: 
 https://public.cyber.mil/wid/dod8140/dod-approved-8570-baseline-certifications/
-![[20-29 Education/23 Certificates/Pasted image 20240804001011.png]]
 
 ### Mad HAT: 
 https://www.youtube.com/watch?v=o3cTnJXjVlk
