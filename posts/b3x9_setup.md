@@ -106,3 +106,5 @@ then paste in to the base.njk file (_includes/layouts/base.njk)
 save, publish, and head back over to the [google analytics(https://analytics.google.com)] page
 ![screenshot of tracking button](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/0c916d3b-3409-40dd-d657-a28ea13c6700/public)
 
+if all goes well, you'll have a new analytics test!
+![analytics test](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/3d5e31d6-9650-4f56-eaf7-23a1cdbb1400/public)
