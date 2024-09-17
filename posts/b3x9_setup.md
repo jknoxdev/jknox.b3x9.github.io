@@ -4,7 +4,8 @@ description: Here's my notes from the steps needed to setup this blog.
 date: 2024-09-15
 scheduled: 2024-09-14
 tags:
-  - another-tag
+  - setup
+  - notes
 layout: layouts/post.njk
 ---
 
