@@ -23,7 +23,7 @@ I ran into problems with this setup though, and wasn't able to forward it to the
 
 New setup, is still through squarespace -> vercel (hosting site) just for the jknox.b3x9.com
 
-So, now I have to redirect the squarepace over to cloudflare, to finish transfering the domain (this is all to get the file hosting redirects to work right). Once that transfer finishes, I can then redirect the web traffic to vercel. So, site is going offline for the next couple of days. 0919.
+So, now I have to redirect the squarepace over to cloudflare, to finish transfering the domain (this is all to get the file hosting redirects to work right). Once that transfer finishes, I can then redirect the web traffic to vercel. So, site is going offline for the next couple of days. 0919. not ready yet. that sounds like a job for saturday. 
 
 
 ##### 240917 - google analytics
