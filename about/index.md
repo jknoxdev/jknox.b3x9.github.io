@@ -30,4 +30,3 @@ In the spirit of the day, I saw this over on [shellshark](https://shellsharks.co
 This site was built on the [11ty/eleventy](https://www.11ty.dev/) framework, using the google provided [template](https://github.com/google/eleventy-high-performance-blog).
 
 Thanks for checking it out! 
-
