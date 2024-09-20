@@ -10,6 +10,8 @@ tags:
 ---
 
 ### rabbit r1 technical issue
+
+##### notice!! support has been extremely helpful, will post more later! 
 so, I've had the rabbit r1 6th generation for about 5 months now and I have to say 
 this thing is awesome. 
 
