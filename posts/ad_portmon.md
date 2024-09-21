@@ -23,7 +23,7 @@ about 20 minutes later with some initial testing, here's what it's come up with:
 
 Now, that's impressive. 
 
-I still have to test it on a lan, probably in a VM network on my cloud servers; but wow. 
+I still have to test it on a LAN, probably in a VM network on my cloud servers; but wow. 
 
 I've copied the files here if you'd like to check it out. 
 I feel weird about posting this to my github, since there's not really that much that I did. I mean, there's a lot more that can be done with this to make it actually useful, but as a proof of concept, I think this is really pretty amazing. 
