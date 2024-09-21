@@ -1,8 +1,8 @@
 ---
 title: draft
-description: Draft
-date: 2021-06-22
-scheduled: 2021-06-22
+description: draft
+date: 2024-09-20
+scheduled: 2024-09-20
 layout: layouts/post.njk
 tags:
   - draft

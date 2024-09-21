@@ -14,11 +14,9 @@ So, this is pretty crazy. I saw a twitter / x post by [@ammaar](https://twitter.
 
 Now, I don't know what this means for me as a budding cyber security professional, so I thought I'd try the same thing, but with using Active Direcotory as the source. 
 
-Here are the [@Repplit](https://replit.com) prompts I used: 
+Here is the [@Repplit](https://replit.com) prompt I used: 
 
-```
-create a python program that can look at local network traffic and see if there is active directory related traffic. on a gui window, make a grid for each of the standard protocols with a grey rectangle around them. if the encrypted ones are in use,, highlight them with green, and if they are detected as unencrypted highlight them with a red rectangular border
-```
+> "create a python program that can look at local network traffic and see if there is active directory related traffic. on a gui window, make a grid for each of the standard protocols with a grey rectangle around them. if the encrypted ones are in use,, highlight them with green, and if they are detected as unencrypted highlight them with a red rectangular border"
 
 about 20 minutes later with some initial testing, here's what it's come up with:
 ![image of the Active Directory Traffic Analyzer Prototype](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/3c51f9cb-1bfc-4588-dec8-77349a943d00/public)
@@ -32,8 +30,9 @@ I feel weird about posting this to my github, since there's not really that much
 
 here are the main files in the program, I'm mostly just copying these in so I can read them on my phone later: 
 
+
 ##### gui.py
-```
+```python
 import tkinter as tk
 from tkinter import messagebox, ttk
 from ad_protocols import AD_PROTOCOLS, is_encrypted
@@ -177,8 +176,9 @@ class ADMonitorGUI:
         self.alert_text.config(state=tk.DISABLED)
 ```
 
+
 ##### packet_analyzer.py
-```
+```python
 from scapy.all import sniff, IP, TCP, UDP
 from ad_protocols import AD_PROTOCOLS, is_encrypted
 import random
@@ -313,8 +313,9 @@ class PacketAnalyzer:
             self.check_suspicious_activity(src_ip, dst_ip, src_port, dst_port, protocol)
 ```
 
+
 ##### main.py
-```
+```python
 import tkinter as tk
 from gui import ADMonitorGUI
 from packet_analyzer import PacketAnalyzer
