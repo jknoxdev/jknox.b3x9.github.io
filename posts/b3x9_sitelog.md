@@ -10,6 +10,10 @@ layout: layouts/post.njk
 ---
 
 ### updates 
+
+##### 240923 - resume links
+just a quick fix, moved my resume in to a single column ATS friendly format.
+
 ##### 240919 - dns migrations part two
 initially, I set this up through squarespace, and then pointed everything to github.io: 
 
