@@ -41,8 +41,8 @@ image: https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0
 ##### File Versions
 | filetype | link |
 |----------|------|
-| ![word](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/f3c55183-6678-446e-5f27-f945431c0e00/public) | [Word](https://jknoxdev.github.io/docs/resumes/word/justin_knox_resume_replete_points.docx) | 
-| ![pdf](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/47b48ef5-9fa1-4605-da21-c84ce26e5b00/public)  |  [PDF](https://jknoxdev.github.io/docs/resumes/pdf/justin_knox_resume_replete_points.pdf)   |
+| ![word](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/f3c55183-6678-446e-5f27-f945431c0e00/public) | [Word](https://jknoxdev.github.io/docs/resumes/word/Justin%20Knox%20-%20Resume.docx) | 
+| ![pdf](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/47b48ef5-9fa1-4605-da21-c84ce26e5b00/public)  |  [PDF](https://jknoxdev.github.io/docs/resumes/pdf/Justin%20Knox%20-%20Resume.pdf)   |
 
 
 ![assisted by ai sticker](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/41937417-5eef-4194-0d9e-d8fedc615100/public)
