@@ -1,6 +1,6 @@
 ---
-title: Searx - how and why
-description: Searx How and Why
+title: Searx the how and why
+description: Searx, the How and Why
 date: 2024-09-22
 scheduled: 2024-09-22
 layout: layouts/post.njk
@@ -15,7 +15,6 @@ searx is awesome because:
  = the more people you have using it, the more spread out your results will be
  - comparisons and tests:
     Google Search:
-
     Searx Search:
 
 ### how to setup

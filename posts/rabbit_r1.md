@@ -20,7 +20,7 @@ contrary to popular opinion, I really think this is an amazing product and am re
 I've recently ran into an issue where it is in a bootloop, as I mention on the video, I think this is an error in the charging circuit, but I'll put more details into this as I go further in to the analysis. 
 
 But in the video, you can see that as it is power cycling, the camera gets stuck
-in 'creepy open mode'. I believe what is happening here is that if you leave it in the charging dock for too long, the battery develops memory and the charging circuit is unable to shunt the excess electicity to ground since the ground plane on this device is really a plastic case... I think what we could do better would be to add a steel frame around the unit, which should dissapate the excess electricity. I'd have to hook this up to a oscope to be sure. 
+in 'creepy open mode'. I believe what is happening here is that if you leave it in the charging dock for too long, the battery develops memory and the charging circuit is unable to shunt the excess electicity to ground since the ground plane on this device is really a plastic case... I think what we could do better would be to add a steel frame around the unit, which should dissipate the excess electricity. I'd have to hook this up to a oscope to be sure. 
 
 <div style="position: relative; padding-top: 56.25%;">
   <iframe
