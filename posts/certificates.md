@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/List_of_professional_designations_in_the_United_St
 
 https://www.decisionprofessionals.com/
 
-### DoD 8570: 
+### ‘the big table’
 https://public.cyber.mil/wid/dod8140/dod-approved-8570-baseline-certifications/
 
 ### Mad HAT: 
