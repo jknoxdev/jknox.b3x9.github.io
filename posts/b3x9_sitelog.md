@@ -11,6 +11,9 @@ layout: layouts/post.njk
 
 ### updates 
 
+##### 241010 - resume draft
+after a quick idea, trying out how the site looks with my resume in draft mode! getting waaaay too many spam calls. I’m thinking about making a blog post on how to ‘go dark’ with phone calls.. 
+
 ##### 240923 - resume links
 just a quick fix, moved my resume in to a single column ATS friendly format.
 
