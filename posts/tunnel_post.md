@@ -11,5 +11,5 @@ tags:
 
 this is a draft post
 
-![image of diagram](images/tunnel_diagram.svg)
+![image of diagram](/images/tunnel_diagram.svg)
 
