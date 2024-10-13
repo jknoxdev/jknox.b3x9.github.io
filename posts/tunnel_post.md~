@@ -7,9 +7,9 @@ layout: layouts/post.njk
 tags:
   - tunneling
   - azure
+draft: true
 ---
 
 this is a draft post
 
-![image of diagram](images/tunnel_diagram.svg)
 
