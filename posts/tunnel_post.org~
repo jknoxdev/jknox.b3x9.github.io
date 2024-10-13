@@ -1,0 +1,11 @@
+#+begin_src plantuml :file images/tunnel_diagram.svg
+@startuml
+@startmindmap
+
++ test
+++ test node
+
+@endmindmap
+@enduml
+
+#+end_src
