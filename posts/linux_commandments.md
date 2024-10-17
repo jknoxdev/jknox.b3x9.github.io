@@ -6,6 +6,8 @@ scheduled: 2024-10-16
 layout: layouts/post.njk
 tags:
   - linux
+draft: 
+  - true 
 --- 
 
 Inspired from @ShiberoD https://x.com/shiberod/status/1846547976623124920?s=46
