@@ -1,4 +1,4 @@
-—
+——
 title: The Ten Linux Commandments with ChatGPT 
 description: The Ten Linux Commandments 
 date: 2024-10-16
@@ -6,7 +6,7 @@ scheduled: 2024-10-16
 layout: layouts/post.njk
 tags:
   - linux 
-—
+——-
 
 Inspired from https://x.com/shiberod/status/1846547976623124920?s=46
 
