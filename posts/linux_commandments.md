@@ -8,6 +8,9 @@ tags:
   - linux 
 —
 
+Inspired from https://x.com/shiberod/status/1846547976623124920?s=46
+
+
 Here’s a comedic parody version of the Ten Commandments with a “Linux Bible” spin:
 
 ## The Ten Commandments of Linux
