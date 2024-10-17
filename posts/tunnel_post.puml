@@ -1,0 +1,10 @@
+@startuml
+@startmindmap
+!theme metal
++ test
+++ test node
+
+@endmindmap
+@enduml
+
+#+end_src
