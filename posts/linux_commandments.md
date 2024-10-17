@@ -8,8 +8,12 @@ tags:
   - linux
 --- 
 
-Inspired from https://x.com/shiberod/status/1846547976623124920?s=46
+Inspired from @ShiberoD https://x.com/shiberod/status/1846547976623124920?s=46
 
+From @thatstraw ‘s original post: 
+https://x.com/thatstraw/status/1846208174116032926?s=46
+
+Thanks you two! I asked ChatGPT to elaborate: 
 
 Here’s a comedic parody version of the Ten Commandments with a “Linux Bible” spin:
 
