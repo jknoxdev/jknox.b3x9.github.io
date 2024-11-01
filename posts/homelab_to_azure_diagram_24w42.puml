@@ -1,0 +1,14 @@
+@startuml
+!theme metal
+
+rectangle "Homelab" as homelab {
+	
+}
+rectangle "Azure Cloud" as cloud {
+
+	
+}
+
+homelab --> cloud
+
+@enduml
