@@ -11,6 +11,9 @@ layout: layouts/post.njk
 
 ### updates 
 
+##### 241102 - posted links
+Made a quick post from some ideas about studying for the M$ certs.
+
 ##### 241010 - resume draft
 after a quick idea, trying out how the site looks with my resume in draft mode! getting waaaay too many spam calls. I’m thinking about making a blog post on how to ‘go dark’ with phone calls.. 
 
