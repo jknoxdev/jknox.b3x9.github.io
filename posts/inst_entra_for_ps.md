@@ -10,13 +10,13 @@ tags:
   - entra
 ---
 
+Hopefully this will save someone some time trying to figure this out, aparently the Entra powershell modules are still too new and are not located in the standard package managers. 
 
-##### installing entra powershell
+##### installing entra modules in powershell
 
 ```powershell
 # add psgallery
 Register-PSRepository -Default
-
 
 # ----- fix module crap -----
 ## Update Nuget Package and PowerShellGet Module
@@ -26,7 +26,6 @@ Install-Module PowerShellGet -Scope CurrentUser -Force -AllowClobber
 ## Import updated module
 Import-Module PowerShellGet -MinimumVersion 2.0 -Force
 Import-PackageProvider PowerShellGet -MinimumVersion 2.0 -Force
-
 
 # now we can install entra module
 # make sure to hit tab when typing allowprerelase 
