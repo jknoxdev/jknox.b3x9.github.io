@@ -143,10 +143,10 @@ ares -d -t GungJnfRnfl
 CyberChef: 
 just drag and drop one of the rot modules:
 
-![[https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/ed8a8b9d-bbf5-42a0-d8b5-900104253f00/public]]
+![CyberChef Caesar Bruteforce](https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/ed8a8b9d-bbf5-42a0-d8b5-900104253f00/public)
 
 CyberChef official link:
-![[https://gchq.github.io/CyberChef/#]]
+![CyberChef Official Link:](https://gchq.github.io/CyberChef/#)
 
 
 also:
