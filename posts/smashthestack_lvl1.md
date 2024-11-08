@@ -10,8 +10,6 @@ tags:
 
 this is my first attempt at doing a CTF, just finished level 1, time to write up all the things. 
 
-
-
 ## smashthestack
 
 https://www.smashthestack.org/blowfish.html
@@ -219,5 +217,6 @@ level2@blowfish.smashthestack.org's password:  
   
     Admin - s0ttle@smashthestack.org
 ```
-
 That's it for level 1, onward to level 2 ! 
+
+<img src="https://imagedelivery.net/h6duaPVMwqSx6OPYA68aOw/45aa7ce1-cac6-4c52-9779-6c70e667df00/public" alt="">
