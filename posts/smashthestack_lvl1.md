@@ -67,6 +67,7 @@ HASH:
 Another rabbit hole!  I mean Success! 
 Now, just need a regex to grab just the line above the from the hashcat output : 
 https://regexr.com/
+
 ```bash
 ➜  hashcat --example-hashes  | egrep '(.*Name.*DES)' -B 1      
 Hash mode #1500  
@@ -93,7 +94,7 @@ maybe it's simpler than I thought:
 
 https://github.com/Ciphey/Ciphey
 
-```zsh
+```bash
 sudo apt install python3-full
 
 python3 -m venv .venv
@@ -109,7 +110,7 @@ install -U ciphey
 https://github.com/Ciphey/Ciphey/issues/789
 
 
-```
+```bash
 sudo apt install cargo
 ```
 compiled this after installing rust: 
