@@ -36,24 +36,24 @@ Last updated: October 02, 2024
 
  This Disclaimer has been created with the help of the <a href=“https://www.termsfeed.com/disclaimer-generator/“ target=“_blank”>Disclaimer Generator</a>.</p>
 
-##### Errors and Omissions Disclaimer
+##### Errors and Omissions
 The information given by this blog is for general guidance on matters of interest only. Even if I take every precaution to ensure that the content of this blog is both current and accurate, errors can occur. Plus, given the changing nature of laws, rules and regulations, there may be delays, omissions or inaccuracies in the information contained on this blog.
 I am not responsible for any errors or omissions, or for the results obtained from the use of this information.
 
-##### Fair Use Disclaimer 
+##### Fair Use 
 I may use copyrighted material which has not always been specifically authorized by the copyright owner. I am making such material available for criticism, comment, news reporting, teaching, scholarship, or research.
 I believe this constitutes a &quot;fair use&quot; of any such copyrighted material as provided for in section 107 of the United States Copyright law.
 If You wish to use copyrighted material from this blog for your own purposes that go beyond fair use, You must obtain permission from the copyright owner.
 
-##### Views Expressed Disclaimer 
+##### Views Expressed 
 This blog may contain views and opinions which are those of the authors and do not necessarily reflect the official policy or position of any other author, agency, organization, employer or company, including me.
 Comments published by users are their sole responsibility and the users will take full responsibility, liability and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment. I am not liable for any comment published by users and reserve the right to delete any comment for any reason whatsoever.
 
-##### No Responsibility Disclaimer
+##### No Responsibility
 The information on this blog is provided with the understanding that I am not herein engaged in rendering legal, accounting, tax, or other professional advice and services as herein within it. As such, it should not be used as a substitute for consultation with professional accounting, tax, legal or other relevant advisers.
 In no event shall I or my suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use or inability to access or use this blog.
 
-##### &quot;Use at Your Own Risk&quot; Disclaimer
+##### &quot;Use at Your Own Risk&quot;
 All information in this blog is provided &quot;as is&quot;, with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
 I will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by this blog or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
